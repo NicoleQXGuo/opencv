@@ -1,0 +1,10 @@
+.idea
+weights
+assets/predict_test
+assets/result
+assets/test
+dataset/annotations_test/*
+dataset/annotations_train/*
+dataset/images_test/*
+dataset/images_train/*
+dataset/labels_json/*
